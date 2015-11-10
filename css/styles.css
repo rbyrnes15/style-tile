@@ -3,13 +3,26 @@
 /***************/
 
 /* Color Palette */
+.color-1 {
+    background: red;
+}
 
-
+.color-2 {
+    background: green;
+}
 /* Textures or Patterns*/
-
+.pattern-1 {
+    background: url(http://prek-8.com/holiday/Christmas/images/gw1.jpg);
+    
+    
+}
 
 /* Imagery */
-
+. imagery-1 {
+    background: url(http://c.tadst.com/gfx/600x400/christmas.jpg?1);
+    width: 600px;
+    height: 400px;
+}
 
 /* Icons */
 
